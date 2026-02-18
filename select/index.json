@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "White Love",
+  "base_artist": "SPEED",
+  "createdAt": "2026-02-18T11:57:43.603642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White Love",
+      "artist": "One Dove",
+      "has_synced": false,
+      "path": "select/01_White_Love_One_Dove.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Love",
+      "artist": "SPEED",
+      "has_synced": true,
+      "path": "select/02_White_Love_SPEED.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White Love",
+      "artist": "SPEED",
+      "has_synced": true,
+      "path": "select/03_White_Love_SPEED.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Love - Christmas Standard",
+      "artist": "SPEED",
+      "has_synced": true,
+      "path": "select/04_White_Love_-_Christmas_Standard_SPEED.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "White Love (Christmas Standard)",
+      "artist": "SPEED",
+      "has_synced": true,
+      "path": "select/05_White_Love_(Christmas_Standard)_SPEED.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "White Love",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/06_White_Love_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Clean White Love",
+      "artist": "Lisa Mitchell",
+      "has_synced": true,
+      "path": "select/07_Clean_White_Love_Lisa_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "White Love (스키장에서)",
+      "artist": "LABOUM feat. Layone",
+      "has_synced": true,
+      "path": "select/08_White_Love_(스키장에서)_LABOUM_feat._Layone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "White Love (스키장에서) (Feat. 래원)",
+      "artist": "LABOUM",
+      "has_synced": true,
+      "path": "select/09_White_Love_(스키장에서)_(Feat._래원)_LABOUM.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "White Love (스키장에서) (feat. Layone)",
+      "artist": "LABOUM, Layone",
+      "has_synced": true,
+      "path": "select/10_White_Love_(스키장에서)_(feat._Layone)_LABOUM,_Layone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "White Love (Guitar Paradise Mix)",
+      "artist": "One Dove",
+      "has_synced": false,
+      "path": "select/11_White_Love_(Guitar_Paradise_Mix)_One_Dove.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "White Love (Piano Reprise)",
+      "artist": "One Dove",
+      "has_synced": false,
+      "path": "select/12_White_Love_(Piano_Reprise)_One_Dove.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "White Love (Radio Mix)",
+      "artist": "One Dove",
+      "has_synced": false,
+      "path": "select/13_White_Love_(Radio_Mix)_One_Dove.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White Love",
+      "artist": "SPEED",
+      "has_synced": true,
+      "path": "select/14_White_Love_SPEED.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHITE LOVE",
+      "artist": "SPEED",
+      "has_synced": false,
+      "path": "select/pl_01_WHITE_LOVE_SPEED.txt"
+    }
+  ]
+}
