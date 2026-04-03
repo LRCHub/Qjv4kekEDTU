@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "White Love",
   "base_artist": "SPEED",
-  "createdAt": "2026-02-18T11:57:43.603642Z",
+  "createdAt": "2026-04-03T05:29:26.518253Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -123,6 +123,15 @@
       "artist": "SPEED",
       "has_synced": false,
       "path": "select/pl_01_WHITE_LOVE_SPEED.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "White Love",
+      "artist": "SPEED",
+      "has_synced": true,
+      "path": "select/localdb_01_White_Love_SPEED.lrc",
+      "repo_name": "Qjv4kekEDTU"
     }
   ]
 }
